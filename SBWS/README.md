@@ -21,9 +21,13 @@
 		
 <section>
 		<h2>Capturas de Tela</h2>
-		<img src="screenshot1.jpg" alt="Captura de Tela 1">
-		<img src="screenshot2.jpg" alt="Captura de Tela 2">
-		<img src="screenshot3.jpg" alt="Captura de Tela 3">
+		<img src="assets/screenshots/screenshot1.png" alt="Screenshot do aplicativo" width="15%" height="15%">
+		<img src="assets/screenshots/screenshot2.png" alt="Screenshot do aplicativo" width="15%" height="15%">
+		<img src="assets/screenshots/screenshot3.png" alt="Screenshot do aplicativo" width="15%" height="15%">
+		<img src="assets/screenshots/screenshot4.png" alt="Screenshot do aplicativo" width="15%" height="15%">
+		<img src="assets/screenshots/screenshot5.png" alt="Screenshot do aplicativo" width="15%" height="15%">
+		<img src="assets/screenshots/screenshot6.png" alt="Screenshot do aplicativo" width="15%" height="15%">
+		<img src="assets/screenshots/screenshot7.png" alt="Screenshot do aplicativo" width="15%" height="15%">
 	</section>
 		
 <section>
