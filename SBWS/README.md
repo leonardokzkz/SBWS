@@ -27,7 +27,6 @@
 		<img src="assets/screenshots/screenshot4.png" alt="Screenshot do aplicativo" width="15%" height="15%">
 		<img src="assets/screenshots/screenshot5.png" alt="Screenshot do aplicativo" width="15%" height="15%">
 		<img src="assets/screenshots/screenshot6.png" alt="Screenshot do aplicativo" width="15%" height="15%">
-		<img src="assets/screenshots/screenshot7.png" alt="Screenshot do aplicativo" width="15%" height="15%">
 	</section>
 		
 <section>
