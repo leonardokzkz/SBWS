@@ -13,10 +13,10 @@
 <section>
 	<h2>Tecnologias Utilizadas</h2>
 	<ul>
-		<li>Dart</li>
-		<li>Flutter</li>
-		<li>Proto IO</li>
-		<li>SQFLITE</li>
+		<li><img align="center" alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/></li>
+		<li><img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></li>
+		<li><img align="center" alt="Proto Io" src="https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff"/></li>
+		<li><img align="center" alt="SQFLITE" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></li>
 	</ul>
 	</section>
 		
