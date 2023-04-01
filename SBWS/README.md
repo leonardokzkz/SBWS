@@ -1,6 +1,6 @@
 
 <header>
-	<h1>SBWS - Segurança do Bairro</h1>
+	<h1>SBWS - Segurança do Bairro 📷 </h1> 
 	<p>Protótipo para Android desenvolvido com Dart, Flutter, Proto IO e SQFLITE</p>
 </header>
 	
